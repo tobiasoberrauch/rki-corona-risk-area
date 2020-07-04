@@ -1,4 +1,4 @@
-# Show international risk areas for corona
+# RKI risk areas for corona
 
 ## Install
     yarn install
@@ -7,5 +7,5 @@
     yarn serve
 
 ## Sources
-- https://www.deepl.com/translator#de/en/Informationen%20zur%20Ausweisung%20internationaler%20Risikogebiete
+- https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.htms
 
