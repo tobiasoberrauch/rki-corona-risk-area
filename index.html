@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Demo: Leaflet.CountrySelect</title>
+    <link rel="stylesheet" href="leaflet.css" />
+    <script src="leaflet.js"></script>
+    <script src="countries.geo.js"></script>
+    <script src="risk-list.js"></script>
+    <script src="translation.js"></script>
+</head>
+
+<style>
+    html,
+    body,
+    #map {
+        padding: 0px;
+        margin: 0px;
+        height: 100%;
+        width: 100%;
+    }
+</style>
+
+<script>
+    function init() {
+        var baseLayer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', { attribution: 'Tiles &copy; CartoDB' });
+        var map = L.map("map", { layers: [baseLayer], center: [-23.88, -62.75], zoom: 4 });
+
+
+        function getColor(countryName) {
+            const germanCountry = window.translate('en', 'de', countryName);
+            if (germanCountry && window.riskList.indexOf(germanCountry.name) > -1) {
+                return '#b52525';
+            }
+            return '#25b537';
+        }
+        function style(feature) {
+            return {
+                fillColor: getColor(feature.properties.name),
+                weight: 1,
+                opacity: 1,
+                color: 'white',
+                dashArray: '3',
+                fillOpacity: 0.7
+            };
+        }
+        L.geoJson(window.countries, { style: style }).addTo(map)
+    }
+</script>
+
+<body onload="init()">
+    <div id="map"></div>
+</body>
+
+</html>
