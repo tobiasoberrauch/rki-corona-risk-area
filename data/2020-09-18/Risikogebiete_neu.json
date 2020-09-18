@@ -1,0 +1,935 @@
+[
+    {
+        "name": "Afghanistan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Ägypten",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Albanien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Algerien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Andorra - das Fürstentum Andorra",
+        "dateFrom": "seit 26. August"
+    },
+    {
+        "name": "Angola",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Antigua und Barbuda",
+        "dateFrom": "seit 17. Juni"
+    },
+    {
+        "name": "Äquatorialguinea",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Argentinien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Armenien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Aserbaidschan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Äthiopien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bahamas",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bahrain",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bangladesch",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Barbados",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Belarus",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Belgien –derzeit gelten als Risikogebiete:\nRegion Brüssel",
+        "dateFrom": "seit 21. August",
+        "regions": [
+            {
+                "name": "Region Brüssel",
+                "dateFrom": "seit 21. August"
+            }
+        ]
+    },
+    {
+        "name": "Region Brüssel",
+        "dateFrom": "seit 21. August"
+    },
+    {
+        "name": "Belize",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Benin",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bhutan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bolivien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bosnia und Herzegowina",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Brasilien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Bulgarien – die folgenden Verwaltungsbezirke  gelten derzeit als Risikogebiete:\nBlagoevgrad (seit 7. August):",
+        "dateFrom": "„Oblaste“",
+        "regions": [
+            {
+                "name": "Blagoevgrad :",
+                "dateFrom": "seit 7. August"
+            }
+        ]
+    },
+    {
+        "name": "Blagoevgrad :",
+        "dateFrom": "seit 7. August"
+    },
+    {
+        "name": "Burkina Faso",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Burundi",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Cabo Verde",
+        "dateFrom": "seit 3. Juli"
+    },
+    {
+        "name": "Chile",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Costa Rica",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Dominica",
+        "dateFrom": "seit 17. Juni"
+    },
+    {
+        "name": "Dominikanische Republik",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Dschibuti",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Ecuador",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "El Salvador",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Eritrea",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Eswatini",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Frankreich – folgende Überseegebiete/Regionen gelten derzeit als Risikogebiete:\nÎle-de-France Provence-Alpes-Côte d’Azur (seit 24. August)Occitanie (seit 9. September)Nouvelle-Aquitaine (seit 9. September)Auvergne-Rhone-Alpes (seit 9. September)Korsika (seit 9. September)Hauts-de-France (seit 16. September)Überseegebiet: Französisch-Guyana (seit 21. August)Überseegebiet: Guadeloupe (seit 26. August)Überseegebiet: St. Martin (seit 26. August)Überseegebiet: La Réunion (seit 16. September)",
+        "dateFrom": "seit 24. August",
+        "regions": [
+            {
+                "name": "Île-de-France",
+                "dateFrom": "seit 24. August"
+            },
+            {
+                "name": "Provence-Alpes-Côte d’Azur",
+                "dateFrom": "seit 24. August"
+            },
+            {
+                "name": "Occitanie",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Nouvelle-Aquitaine",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Auvergne-Rhone-Alpes",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Korsika",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Hauts-de-France",
+                "dateFrom": "seit 16. September"
+            },
+            {
+                "name": "Überseegebiet: Französisch-Guyana",
+                "dateFrom": "seit 21. August"
+            },
+            {
+                "name": "Überseegebiet: Guadeloupe",
+                "dateFrom": "seit 26. August"
+            },
+            {
+                "name": "Überseegebiet: St. Martin",
+                "dateFrom": "seit 26. August"
+            },
+            {
+                "name": "Überseegebiet: La Réunion",
+                "dateFrom": "seit 16. September"
+            }
+        ]
+    },
+    {
+        "name": "Île-de-France",
+        "dateFrom": "seit 24. August"
+    },
+    {
+        "name": "Provence-Alpes-Côte d’Azur",
+        "dateFrom": "seit 24. August"
+    },
+    {
+        "name": "Occitanie",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Nouvelle-Aquitaine",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Auvergne-Rhone-Alpes",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Korsika",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Hauts-de-France",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Überseegebiet: Französisch-Guyana",
+        "dateFrom": "seit 21. August"
+    },
+    {
+        "name": "Überseegebiet: Guadeloupe",
+        "dateFrom": "seit 26. August"
+    },
+    {
+        "name": "Überseegebiet: St. Martin",
+        "dateFrom": "seit 26. August"
+    },
+    {
+        "name": "Überseegebiet: La Réunion",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Gabun",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Gambia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Ghana",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Grenada",
+        "dateFrom": "seit 17. Juni"
+    },
+    {
+        "name": "Guatemala",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Guinea",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Guinea Bissau",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Guyana",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Haiti",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Honduras",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Indien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Indonesien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Irak",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Iran",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Israel",
+        "dateFrom": "seit 3. Juli"
+    },
+    {
+        "name": "Jamaika",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Jemen",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kamerun",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kasachstan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Katar",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kenia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kirgisistan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kolumbien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Komoren",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kongo DR",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kongo Rep",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Korea  (seit 15. Juni)",
+        "dateFrom": "Volksrepublik"
+    },
+    {
+        "name": "Kosovo",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kroatien - die folgenden Gespanschaften gelten derzeit als Risikogebiete:\nŠibenik-Knin Split-Dalmatien (seit 20. August)Zadar (seit 2. September)Dubrovnik-Neretva (seit 9. September)Požega-Slawonien (seit 9. September)Brod-Posavina (seit 16. September)Virovitica-Podravina (seit 16. September)",
+        "dateFrom": "seit 20. August",
+        "regions": [
+            {
+                "name": "Šibenik-Knin",
+                "dateFrom": "seit 20. August"
+            },
+            {
+                "name": "Split-Dalmatien",
+                "dateFrom": "seit 20. August"
+            },
+            {
+                "name": "Zadar",
+                "dateFrom": "seit 2. September"
+            },
+            {
+                "name": "Dubrovnik-Neretva",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Požega-Slawonien",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Brod-Posavina",
+                "dateFrom": "seit 16. September"
+            },
+            {
+                "name": "Virovitica-Podravina",
+                "dateFrom": "seit 16. September"
+            }
+        ]
+    },
+    {
+        "name": "Šibenik-Knin",
+        "dateFrom": "seit 20. August"
+    },
+    {
+        "name": "Split-Dalmatien",
+        "dateFrom": "seit 20. August"
+    },
+    {
+        "name": "Zadar",
+        "dateFrom": "seit 2. September"
+    },
+    {
+        "name": "Dubrovnik-Neretva",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Požega-Slawonien",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Brod-Posavina",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Virovitica-Podravina",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Kuba",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Kuwait",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Lesotho",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Libanon",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Liberia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Libyen",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Madagaskar",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Malawi",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Malediven",
+        "dateFrom": "seit 17. Juli"
+    },
+    {
+        "name": "Mali",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Marokko",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Mauretanien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Mexiko",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Mongolei",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Montenegro",
+        "dateFrom": "15. – 19. Juni und seit 17. Juli"
+    },
+    {
+        "name": "Mosambik",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Namibia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Nepal",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Nicaragua",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Niederlande - die folgenden Provinzen, bzw. autonomen Länder gelten derzeit als Risikogebiete:\nNordholland  (seit 16. September)Südholland (Zuid-Holland) (seit 16. September)Aruba (seit 26. August)St. Maarten (seit 26. August)",
+        "dateFrom": "Noord-Holland",
+        "regions": [
+            {
+                "name": "Nordholland  (seit 16. September)",
+                "dateFrom": "Noord-Holland"
+            },
+            {
+                "name": "Südholland  (seit 16. September)",
+                "dateFrom": "Zuid-Holland"
+            },
+            {
+                "name": "Aruba",
+                "dateFrom": "seit 26. August"
+            },
+            {
+                "name": "St. Maarten",
+                "dateFrom": "seit 26. August"
+            }
+        ]
+    },
+    {
+        "name": "Nordholland  (seit 16. September)",
+        "dateFrom": "Noord-Holland"
+    },
+    {
+        "name": "Südholland  (seit 16. September)",
+        "dateFrom": "Zuid-Holland"
+    },
+    {
+        "name": "Aruba",
+        "dateFrom": "seit 26. August"
+    },
+    {
+        "name": "St. Maarten",
+        "dateFrom": "seit 26. August"
+    },
+    {
+        "name": "Niger",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Nigeria",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Nordmazedonien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Oman",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Österreich - Bundesland Wien gilt als Risikogebiet",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Pakistan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Palästinensische Gebiete",
+        "dateFrom": "seit 3. Juli"
+    },
+    {
+        "name": "Panama",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Papua-Neuguinea",
+        "dateFrom": "seit 17. Juni"
+    },
+    {
+        "name": "Paraguay",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Peru",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Philippinen",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Republik Moldau",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Rumänien – die folgenden Gebiete  gelten derzeit als Risikogebiete:\nBacău (seit 12. August)Bihor (seit 7. August)Brăila (seit 12. August)Brașov (seit 12. August)București (seit 12. August)Caras Severin (seit 16. September)Iasi (seit 9. September)Ilfov (seit 12. August)Neamt (seit 16. September)Prahova (seit 12. August)Vâlcea (seit 20. August)Vaslui (seit 12. August)",
+        "dateFrom": "„Kreise“",
+        "regions": [
+            {
+                "name": "Bacău",
+                "dateFrom": "seit 12. August"
+            },
+            {
+                "name": "Bihor",
+                "dateFrom": "seit 7. August"
+            },
+            {
+                "name": "Brăila",
+                "dateFrom": "seit 12. August"
+            },
+            {
+                "name": "Brașov",
+                "dateFrom": "seit 12. August"
+            },
+            {
+                "name": "București",
+                "dateFrom": "seit 12. August"
+            },
+            {
+                "name": "Caras Severin",
+                "dateFrom": "seit 16. September"
+            },
+            {
+                "name": "Iasi",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Ilfov",
+                "dateFrom": "seit 12. August"
+            },
+            {
+                "name": "Neamt",
+                "dateFrom": "seit 16. September"
+            },
+            {
+                "name": "Prahova",
+                "dateFrom": "seit 12. August"
+            },
+            {
+                "name": "Vâlcea",
+                "dateFrom": "seit 20. August"
+            },
+            {
+                "name": "Vaslui",
+                "dateFrom": "seit 12. August"
+            }
+        ]
+    },
+    {
+        "name": "Bacău",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "Bihor",
+        "dateFrom": "seit 7. August"
+    },
+    {
+        "name": "Brăila",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "Brașov",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "București",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "Caras Severin",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Iasi",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Ilfov",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "Neamt",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "Prahova",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "Vâlcea",
+        "dateFrom": "seit 20. August"
+    },
+    {
+        "name": "Vaslui",
+        "dateFrom": "seit 12. August"
+    },
+    {
+        "name": "Russische Föderation",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Sankt Kitts und Nevis",
+        "dateFrom": "seit 16. Juni"
+    },
+    {
+        "name": "Saint Lucia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Saint Vincent und die Grenadinen",
+        "dateFrom": "seit 16. Juni"
+    },
+    {
+        "name": "Sambia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "São Tomé und Príncipe",
+        "dateFrom": "seit 16. Juni"
+    },
+    {
+        "name": "Saudi Arabien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Schweiz – folgenden Kantone gelten als Risikogebiete:\nGenf Waadt (Vaud) (seit 9. September)Freiburg (Fribourg) (seit 16. September)",
+        "dateFrom": "seit 9. September",
+        "regions": [
+            {
+                "name": "Genf",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Waadt  (seit 9. September)",
+                "dateFrom": "Vaud"
+            },
+            {
+                "name": "Freiburg  (seit 16. September)",
+                "dateFrom": "Fribourg"
+            }
+        ]
+    },
+    {
+        "name": "Genf",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Waadt  (seit 9. September)",
+        "dateFrom": "Vaud"
+    },
+    {
+        "name": "Freiburg  (seit 16. September)",
+        "dateFrom": "Fribourg"
+    },
+    {
+        "name": "Senegal",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Serbien",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Seychellen",
+        "dateFrom": "seit 17. Juli"
+    },
+    {
+        "name": "Sierra Leone",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Simbabwe",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Somalia",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Spanien - ganz Spanien, einschl. Kanarische Inseln",
+        "dateFrom": "seit 2. September"
+    },
+    {
+        "name": "Sri Lanka",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Südafrika",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Sudan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Südsudan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Surinam",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Syrische Arabische Republik",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Tadschikistan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Tansania",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Tschechien – folgende Regionen gelten als Risikogebiete:\nPrag Středočeský (Mittelböhmen) (seit 16. September)",
+        "dateFrom": "seit 9. September",
+        "regions": [
+            {
+                "name": "Prag",
+                "dateFrom": "seit 9. September"
+            },
+            {
+                "name": "Středočeský  (seit 16. September)",
+                "dateFrom": "Mittelböhmen"
+            }
+        ]
+    },
+    {
+        "name": "Prag",
+        "dateFrom": "seit 9. September"
+    },
+    {
+        "name": "Středočeský  (seit 16. September)",
+        "dateFrom": "Mittelböhmen"
+    },
+    {
+        "name": "Timor Leste  (seit 17. Juni)",
+        "dateFrom": "Osttimor"
+    },
+    {
+        "name": "Togo",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Trinidad Tobago",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Tschad",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Türkei",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Turkmenistan",
+        "dateFrom": "seit 17. Juni"
+    },
+    {
+        "name": "Ukraine",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Ungarn: die Hauptstadt Budapest gilt als Risikogebiet",
+        "dateFrom": "seit 16. September"
+    },
+    {
+        "name": "USA",
+        "dateFrom": "seit 3. Juli gesamte USA"
+    },
+    {
+        "name": "Usbekistan",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Venezuela",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Vereinigtes Königreich von Großbritannien und Nordirland – das folgende britische Überseegebiet gilt derzeit als Risikogebiet:\nGibraltar",
+        "dateFrom": "seit 26. August",
+        "regions": [
+            {
+                "name": "Gibraltar",
+                "dateFrom": "seit 26. August"
+            }
+        ]
+    },
+    {
+        "name": "Gibraltar",
+        "dateFrom": "seit 26. August"
+    },
+    {
+        "name": "Zentralafrikanische Republik",
+        "dateFrom": "seit 15. Juni"
+    },
+    {
+        "name": "Rumänien: Gebiete  Galați (12. August – 9. September), Buzău (7. August – 9. September), Vrancea (12. August – 9. September), Arges (seit 7. August – 16. September), Dâmbovița (seit 12. August - 16. September)",
+        "dateFrom": "„Kreise“"
+    },
+    {
+        "name": "Bulgarien: Oblast Dobritch",
+        "dateFrom": "7. August – 9. September"
+    },
+    {
+        "name": "Deutsch"
+    },
+    {
+        "name": "English"
+    },
+    {
+        "name": "BMG: Regelungen für Einreisende nach Deutschland im Zusammenhang mit COVID-19"
+    },
+    {
+        "name": "Information zur Anerkennung von molekularbiologischen Testen auf SARS-CoV-2 bei Einreise aus einem Risikogebiet nach Deutschland "
+    },
+    {
+        "name": "Seite drucken"
+    }
+]
